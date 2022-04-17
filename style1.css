@@ -1,0 +1,66 @@
+
+    h1 {
+        color: black;
+        font-size: 45px;
+        text-align: center;
+        
+    }
+   #ma{
+   
+   padding:30px;
+   
+     
+
+   }
+   
+    table
+    {
+      padding-top: 50px;
+      border-collapse:collapse;
+      width:20%;
+      
+    }
+  
+    tr:first-child td:first-child {
+      border-top: none;
+      border-left: none;
+      }
+      tr:first-child td:last-child {
+        border-top: none;
+        
+        }
+      tr:first-child td
+      {
+        border-top: none;
+      }
+      tr td:first-child 
+      {
+        border-left: none;
+      }
+      
+    tr:last-child td:first-child {
+          border-left:none ;
+          
+
+          }
+          
+    td{
+        border:2px solid white;
+        border-right: none;
+        border-bottom: none;
+       
+        width: 500px;
+        height: 2px;
+        background-color:gray;
+        text-align: center;
+    }
+    
+   
+
+
+
+   
+    
+  
+   
+   
